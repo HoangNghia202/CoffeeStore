@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/entity/Admin.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/sign-up-ad.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/assets/css/nucleo-icons.css</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/pages/nav-left.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/images/bg_1.jpg</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/dao/MenuDao.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/entity/Menu.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/indexAd.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/dao/BillDetailDao.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/LoginAdServlet.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/paypal.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/contact.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/images/bg_2.jpg</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/dao/AdminDAO.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/dbConnect/DatabaseInfor.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/pages/sign-in.html</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/cart.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/images/about.jpg</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/images/bg_3.jpg</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/loginAndSignin.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/checkout.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/servlet/logoutServet.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/includes/paypal.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/images/bg_4.jpg</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/edit-menu.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/entity/Bill.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/dbConnect/TestDB.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/servlet/editmenuServlet.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/dbConnect/DBContext.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/sign-in-ad.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/index.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/dao/CartDao.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/WEB-INF/web.xml</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/dao/BillDao.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/servlet/loginSigninServlet.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/indexNoneLogin.jsp</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/web/css/style.css</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/servlet/SignUp_Admin_Servlet.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/dao/UserDao.java</file>
+            <file>file:/D:/SUM22/PRJ301/Assignment%20-%20Copy4/src/java/servlet/Login_Logout_Amin_Servlet.java</file>
+        </group>
+    </open-files>
+</project-private>
