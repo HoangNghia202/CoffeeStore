@@ -16,6 +16,6 @@ SQL server.
 CRUD.\
 Order drink.\
 Payment.\
-Place table.\
+Place table.
 
 
